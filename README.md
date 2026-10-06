@@ -17,7 +17,7 @@ Apaixonado por tecnologia, sempre em busca de aprender, evoluir e superar novos 
 
 ## 🎯 Objetivo
 
-Conseguir uma **vaga de estágio em Inteligência Artificial ou Desenvolvimento de Software**, onde eu possa aplicar o que estou aprendendo, contribuir com o time e evoluir junto com ele.
+Conquistar uma vaga de estágio em Inteligência Artificial ou Desenvolvimento de Software, onde eu possa aplicar o que estou aprendendo, contribuir com o time e evoluir junto com ele.
 
 ---
 
