@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Olá, eu sou o Hector 👋
@@ -106,17 +105,6 @@ Descrição curta do que o projeto faz e qual problema resolve.
 - 🐍 Carreira de Desenvolvimento Back-end Python · Alura *(em andamento)*
 - 🐍 Fundamentos de Python · Senai Ipiranga *(concluído em 2026)*
 - 🤖 Programação em Inteligência Artificial Generativa · Senai Ipiranga *(concluído em 2025)*
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do Hector](https://github-readme-stats.vercel.app/api?username=hectoralvess&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralvess&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
