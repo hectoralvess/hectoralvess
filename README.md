@@ -37,7 +37,8 @@
 
 ---
 
-<h2 align="center"> CONTATO 
+
+<h2 align="left"> CONTATO</h2> 
 
 <p align="center">
   <sub>
