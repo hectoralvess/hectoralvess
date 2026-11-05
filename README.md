@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="left">⌁ 02 / TECH STACK</h2>
+<h2 align="left"> TECH STACK</h2>
 
 <!-- BACK-END & DEVELOPMENT -->
 <p align="center">
