@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="left">⌁ 01 / SOBRE MIM</h2>
+<h2 align="left"> SOBRE MIM</h2>
 
 <p>
   Olá! Sou <strong>Hector Renato</strong>, estudante de Inteligência Artificial e Machine Learning, interessado em entender como a tecnologia pode resolver problemas reais.
@@ -41,12 +41,12 @@
 
 <!-- BACK-END & DEVELOPMENT -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,mysql,postgres,git,github,vscode,docker&theme=dark" alt="Back-end Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,mysql,git,docker&theme=dark" alt="Back-end Technologies" />
 </p>
 
 <!-- AI & DATA SCIENCE -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Artificial Intelligence and Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="Artificial Intelligence and Machine Learning" />
 </p>
 
 <!-- AI ECOSYSTEM -->
@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/Artificial_Intelligence-0B84F3?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine_Learning-123C69?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval Augmented Generation" />
+  <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
 </p>
 
 ---
