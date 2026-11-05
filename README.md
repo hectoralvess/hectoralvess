@@ -1,72 +1,116 @@
+<!--
+  HECTOR RENATO | GITHUB PROFILE
+  AI & MACHINE LEARNING
+-->
+
 <div align="center">
-  <img src="./assets/banner.svg" alt="Hector Renato — Inteligência Artificial e Machine Learning" width="100%">
+  <img src="./assets/banner.svg" alt="Hector Renato — Artificial Intelligence e Machine Learning" width="100%">
   <br>
-  <img src="./assets/typing.svg" alt="Estudante de IA e Machine Learning, em busca de estágio" width="640">
+  <img src="./assets/typing.svg" alt="Inteligência Artificial, Python e Machine Learning. Em busca de estágio" width="700">
 </div>
 
 <br>
 
-## Sobre mim
+## `01` — Sobre mim
 
-Sou **Hector Renato do Vale Alves Santos**, técnico em Mecatrônica. Hoje trabalho com eletrônica: teste e manutenção de placas e análise de circuitos.
+```text
+>>> query = "Quem é Hector Renato?"
 
-Meu interesse por programação começou no curso técnico, com projetos em Arduino, e virou o foco dos meus estudos. Vim do hardware e estou indo para o software: curso Inteligência Artificial e Machine Learning e estudo Python.
+[retrieve]  3 documentos encontrados
+            ├─ área ........ Inteligência Artificial & Machine Learning
+            ├─ stack ....... Python · RAG · LLMs
+            └─ interesse ... Data & Technology
 
-Ainda não tenho experiência profissional em programação, e por isso procuro um **estágio em Inteligência Artificial ou Desenvolvimento de Software**, onde eu possa aprender na prática.
+[generate]  Interesse em transformar conhecimento em soluções inteligentes.
+            Em busca de estágio em IA ou Desenvolvimento de Software.
+```
 
-<br>
+Tenho interesse em Inteligência Artificial e Machine Learning, e em como a tecnologia pode ir além do código e virar solução real.
 
-## Tecnologias
+Meu foco é Python, Inteligência Artificial e aplicações com modelos de linguagem.
+
+Busco um **estágio em Inteligência Artificial ou Desenvolvimento de Software**.
+
+---
+
+## `02` — Tecnologias & ferramentas
+
+<div align="center">
+
+<sub><b>LINGUAGENS E DESENVOLVIMENTO</b></sub>
+
+<img src="./assets/cards/skills.svg" alt="Python, SQL, Git, GitHub e VS Code">
+
+<br><br>
+
+<sub><b>INTELIGÊNCIA ARTIFICIAL</b></sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python">
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-1D4ED8?style=for-the-badge&labelColor=0D1117" alt="Inteligência Artificial">
-  <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge&labelColor=0D1117" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/RAG-22D3EE?style=for-the-badge&labelColor=0D1117" alt="RAG">
+  <img src="./assets/badges/ai.svg" alt="Artificial Intelligence">
+  <img src="./assets/badges/ml.svg" alt="Machine Learning">
+  <img src="./assets/badges/rag.svg" alt="RAG">
+  <img src="./assets/badges/llms.svg" alt="LLMs">
 </p>
 
-<br>
+</div>
 
-## Em números
+---
+
+## `03` — GitHub Analytics
 
 <div align="center">
-  <img src="./assets/cards/stats.svg" alt="Estatísticas do GitHub" height="190">
-  <img src="./assets/cards/langs.svg" alt="Linguagens mais usadas" height="190">
+  <img height="165" src="./assets/cards/stats.svg" alt="Estatísticas do GitHub">
+  <img height="165" src="./assets/cards/langs.svg" alt="Linguagens mais usadas">
   <br><br>
-  <img src="./assets/cards/streak.svg" alt="Sequência de contribuições" width="90%">
-  <br><br>
-  <img src="./assets/cards/activity.svg" alt="Gráfico de atividade" width="100%">
+  <img width="80%" src="./assets/cards/streak.svg" alt="Sequência de contribuições">
 </div>
 
-<br>
+---
 
-## Troféus
+## `04` — Contribution Activity
 
 <div align="center">
-  <img src="./assets/cards/trophies.svg" alt="Troféus do GitHub" width="100%">
+  <img width="100%" src="./assets/cards/activity.svg" alt="Gráfico de atividade de contribuições">
 </div>
 
-<br>
+---
 
-## Contribuições
+## `05` — GitHub Trophies
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Cobra percorrendo o gráfico de contribuições" width="100%">
+  <img width="100%" src="./assets/cards/trophies.svg" alt="Troféus do GitHub">
+</div>
+
+---
+
+## `06` — Contribution Snake
+
+<div align="center">
+  <img width="100%" src="./assets/snake.svg" alt="Cobra percorrendo o gráfico de contribuições">
+</div>
+
+---
+
+## `07` — Let's connect
+
+<div align="center">
+
+Estou aberto a conexões e oportunidades na área de tecnologia e Inteligência Artificial.
+
+<br>
+
+<a href="https://www.linkedin.com/in/hector-renato-022a0a379">
+  <img src="./assets/badges/linkedin.svg" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/hetu_alves/">
+  <img src="./assets/badges/instagram.svg" alt="Instagram">
+</a>
+<a href="https://github.com/hectoralvess">
+  <img src="./assets/badges/github.svg" alt="GitHub">
+</a>
+
 </div>
 
 <br>
 
-## Vamos conversar
-
-<p>
-  <a href="https://www.linkedin.com/in/hector-renato-022a0a379">
-    <img src="https://img.shields.io/badge/LinkedIn-Hector_Renato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/hetu_alves">
-    <img src="https://img.shields.io/badge/Instagram-%40hetu__alves-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<br>
-
-<img src="./assets/footer.svg" alt="Obrigado pela visita" width="100%">
+<img src="./assets/footer.svg" alt="Building intelligence. Creating possibilities." width="100%">
