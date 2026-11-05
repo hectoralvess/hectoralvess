@@ -40,8 +40,8 @@
 <h2 align="left"> CONTATO
 
 <p align="center">
-  <b>💬 Vamos conversar?</b><br/>
-  Estou aberto a conexões, oportunidades profissionais e projetos na área de tecnologia, Back-end e Inteligência Artificial.
+  
+  Estou aberto a conexões, oportunidades profissionais e projetos na área de tecnologia e Inteligência Artificial.
 </p>
 
 <p align="center">
