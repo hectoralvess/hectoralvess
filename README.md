@@ -1,119 +1,120 @@
-<div align="center">
-
-# Olá, eu sou o Hector 👋
-
-### Estudante de Inteligência Artificial e Machine Learning | Buscando estágio em IA e Desenvolvimento de Software
-
-Apaixonado por tecnologia, sempre em busca de aprender, evoluir e superar novos desafios. Construindo minha carreira em programação, dados e IA.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hector--renato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-renato-022a0a379)
-[![Gmail](https://img.shields.io/badge/Gmail-hectoralvess21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectoralvess21@gmail.com)
-
-📍 Mauá - SP, Brasil
-
-</div>
-
----
-
-## 🎯 Objetivo
-
-Estágio em Inteligência Artificial ou Desenvolvimento de Software, onde eu possa aplicar o que estou aprendendo, contribuir com o time e evoluir junto com ele.
-
----
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Cursando **Bacharelado em Inteligência Artificial e Machine Learning** na FAM (Faculdade das Américas), com previsão de conclusão em jul/2029.
-- 🔧 **Técnico em Mecatrônica** pela Etec Lauro Gomes.
-- 🏭 Trabalho há mais de um ano com **eletrônica industrial** (diagnóstico de falhas, análise de circuitos, testes de equipamentos). Isso me deu um olhar prático para resolver problemas e melhorar processos.
-- 🐍 Estudando **Python** a fundo, com foco em back-end, e praticando **SQL** para trabalhar com dados.
-- 💡 Minha curiosidade por programação nasceu no chão de fábrica, ao ver como a tecnologia pode tornar processos mais eficientes.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediário-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Intermediário-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Básico-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-Básico-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Básico-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🌎 **Inglês:** intermediário (leitura e escrita)
-
----
-
-## 📚 Em que estou focado agora
-
-- 🔭 Carreira de **Desenvolvimento Back-end com Python** na Alura (em andamento)
-- 🤖 Fundamentos de **Machine Learning** e IA na graduação
-- 🗄️ Prática com **SQL** e análise de dados
-- 🌱 Construindo meus **primeiros projetos públicos** aqui no GitHub
-
----
-
-## 🚀 Projetos
-
-> Em breve, meus projetos aparecerão aqui. Estou construindo e publicando os primeiros. 🌱
-
 <!--
-Quando tiver projetos, use este modelo:
-
-### 📌 Nome do Projeto
-Descrição curta do que o projeto faz e qual problema resolve.
-- **Tecnologias:** Python, SQL, ...
-- **Destaques:** o que você aprendeu ou o resultado alcançado
-- 🔗 [Ver repositório](https://github.com/hectoralvess/nome-do-repo)
+  HECTOR RENATO | GITHUB PROFILE
+  AI & MACHINE LEARNING
 -->
 
----
-
-## 💼 Experiência profissional
-
-**Auxiliar Técnico em Eletrônica Pleno III** · Fiberwan Indústria de Equipamentos Eletrônicos · ago/2024 - atual
-- Soldagem e retrabalho de componentes PTH
-- Testes e diagnóstico de equipamentos eletrônicos
-- Análise de circuitos e identificação de falhas
-- Acompanhamento do fluxo de preparação e testes de equipamentos importados
-
-**Auxiliar de Produção** · Rebitop Indústria e Comércio · mai/2024 - ago/2024
-- Acompanhamento do funcionamento das máquinas e alimentação dos equipamentos
-- Conferência da qualidade dos materiais
-- Apoio na manutenção
-
-**Auxiliar de Produção** · Total Clean Comércio e Locações Têxtil Hospitalar · fev/2021 - ago/2023
-- Operação de máquinas industriais e abastecimento de matéria-prima
-- Verificação da qualidade dos materiais produzidos
-- Acompanhamento e registro dos serviços de produção de diferentes setores e clientes
-
-**O que levo dessa trajetória para a tecnologia:** atenção aos detalhes, diagnóstico de problemas, organização, responsabilidade e trabalho em equipe.
-
----
-
-## 🎓 Formação e certificados
-
-| Formação | Instituição | Período |
-|---|---|---|
-| Bacharelado em IA e Machine Learning | FAM - Faculdade das Américas | ago/2025 - jul/2029 (previsto) |
-| Técnico em Mecatrônica | Etec Lauro Gomes | ago/2023 - jul/2025 |
-
-**Cursos e certificados**
-- 🐍 Carreira de Desenvolvimento Back-end Python · Alura *(em andamento)*
-- 🐍 Fundamentos de Python · Senai Ipiranga *(concluído em 2026)*
-- 🤖 Programação em Inteligência Artificial Generativa · Senai Ipiranga *(concluído em 2025)*
-
----
-
-## 📫 Contato
-
-Disponível para oportunidades de estágio em **Inteligência Artificial** e **Desenvolvimento de Software**. Entre em contato pelos canais abaixo:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hector-renato-022a0a379)
-- 📧 [hectoralvess21@gmail.com](mailto:hectoralvess21@gmail.com)
-
+<!-- BANNER -->
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:102A56,100:00C8FF&text=HECTOR%20ALVES&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=65&descSize=15&animation=fadeIn"/>
 
 </div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Explorando+Machine+Learning;Desenvolvimento+com+Python;Construindo+meu+primeiro+projeto+de+IA" alt="Typing SVG"/>
+
+</div>
+
+<br>
+
+## `01` — Sobre mim
+
+```python
+class HectorAlves:
+
+    def __init__(self):
+        self.name = "Hector Renato"
+        self.role = "Estudante de IA e Machine Learning"
+        self.focus = "Desenvolvimento Python"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "RAG",
+            "Data & Technology"
+        ]
+        self.currently = "Desenvolvendo meu primeiro projeto"
+
+    def objective(self):
+        return "Transformar conhecimento em soluções inteligentes."
+
+Sou estudante de Inteligência Artificial e Machine Learning, interessado em entender como a tecnologia pode ir além do código e se transformar em soluções reais.
+
+Atualmente, estou aprofundando meus conhecimentos em Python, Inteligência Artificial e desenvolvimento de aplicações com modelos de linguagem.
+
+Acredito que aprender tecnologia também significa experimentar, errar, construir e evoluir constantemente.
+
+Meu objetivo é continuar desenvolvendo minhas habilidades e construir minha trajetória na área de IA.
+
+---
+
+"02" — Tecnologias & ferramentas
+
+<div align="center">Linguagens e desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode&theme=dark" />Inteligência Artificial
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-101B35?style=for-the-badge&logo=openai&logoColor=00C8FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-101B35?style=for-the-badge&logo=scikitlearn&logoColor=00C8FF"/>
+<img src="https://img.shields.io/badge/RAG-101B35?style=for-the-badge&logo=googlegemini&logoColor=00C8FF"/>
+<img src="https://img.shields.io/badge/LLMs-101B35?style=for-the-badge&logo=openai&logoColor=00C8FF"/></div>---
+
+"03" — Projetos
+
+<div align="center"><img src="https://img.shields.io/badge/IN_DEVELOPMENT-102A56?style=flat-square&logo=github&logoColor=00C8FF"/>
+
+</div><table>
+<tr>
+<td width="100%">🤖 Chatbot com Inteligência Artificial
+
+Meu primeiro projeto em desenvolvimento, explorando aplicações de IA e modelos de linguagem.
+
+Tecnologias e conceitos:
+
+- Python
+- RAG (Retrieval-Augmented Generation)
+- Ollama
+- Qwen
+- Consulta de documentos PDF
+
+Objetivo: desenvolver uma aplicação capaz de responder perguntas utilizando informações presentes em documentos.
+
+</td>
+</tr>
+</table><div align="center">Novos projetos serão adicionados conforme minha evolução na área.
+
+</div>---
+
+"04" — GitHub Analytics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=hectoralvess&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&include_all_commits=true"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralvess&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00C8FF&text_color=C9D1D9"/></div><br><div align="center"><img width="80%" src="https://streak-stats.demolab.com?user=hectoralvess&theme=tokyonight&hide_border=true&background=050816&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF"/></div>---
+
+"05" — Contribution Activity
+
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralvess&bg_color=050816&color=00C8FF&line=0077B6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/></div>---
+
+"06" — GitHub Trophies
+
+<div align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hectoralvess&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10"/></div>---
+
+"07" — Contribution Snake
+
+<div align="center"><img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/hectoralvess/hectoralvess/output/github-contribution-grid-snake-dark.svg"/></div>---
+
+"08" — Let's connect
+
+<div align="center">Estou aberto a conexões, oportunidades e trocas de conhecimento na área de tecnologia e Inteligência Artificial.
+
+<a href="https://www.linkedin.com/in/hector-renato-022a0a379">
+<img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00C8FF"/>
+</a><a href="https://www.instagram.com/Hetu_alvss/">
+<img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=00C8FF"/>
+</a><a href="https://github.com/hectoralvess">
+<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00C8FF"/>
+</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:050816&height=100&section=footer"/>"The future is built by those who keep learning."
+
+<sub>Exploring ideas. Building intelligence. Creating possibilities.</sub>
+
+</div>
+```
