@@ -1,4 +1,3 @@
-
 <!--
   HECTOR RENATO | GITHUB PROFILE
   AI & MACHINE LEARNING
@@ -7,7 +6,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:102A56,100:00C8FF&text=HECTOR%20ALVES&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=65&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:102A56,100:00C8FF&text=HECTOR%20ALVES&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=65&descSize=15&animation=twinkling"/>
 
 </div>
 
@@ -20,7 +19,10 @@
 
 <br>
 
-## `01` — Sobre mim
+<!-- 01 -->
+<div align="center">
+<img width="100%" alt="01 — Sobre mim" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=01%20%E2%80%94%20SOBRE%20MIM&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 ```python
 class HectorAlves:
@@ -49,9 +51,19 @@ Acredito que aprender tecnologia também significa experimentar, errar, construi
 
 Meu objetivo é continuar desenvolvendo minhas habilidades e construir minha trajetória na área de IA.
 
----
+<!-- TRAINING LOG ANIMATION -->
+<div align="center">
 
-## `02` — Tecnologias & ferramentas
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1200&color=00C8FF&width=520&height=40&vCenter=true&lines=%24+python+train.py;epoch+1%2F10+-+loss%3A+0.9421+-+acc%3A+0.61;epoch+5%2F10+-+loss%3A+0.3127+-+acc%3A+0.88;epoch+10%2F10+-+loss%3A+0.0412+-+acc%3A+0.97;treinamento+conclu%C3%ADdo.+aprendendo+sempre." alt="Training log"/>
+
+</div>
+
+<br>
+
+<!-- 02 -->
+<div align="center">
+<img width="100%" alt="02 — Tecnologias e ferramentas" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=02%20%E2%80%94%20TECNOLOGIAS%20%26%20FERRAMENTAS&fontColor=FFFFFF&fontSize=24&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -68,9 +80,12 @@ Meu objetivo é continuar desenvolvendo minhas habilidades e construir minha tra
 
 </div>
 
----
+<br>
 
-## `03` — Projetos
+<!-- 03 -->
+<div align="center">
+<img width="100%" alt="03 — Projetos" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=03%20%E2%80%94%20PROJETOS&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -96,6 +111,12 @@ Meu primeiro projeto em desenvolvimento, explorando aplicações de IA e modelos
 
 **Objetivo:** desenvolver uma aplicação capaz de responder perguntas utilizando informações presentes em documentos.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=480&height=40&lines=1.+L%C3%AA+os+documentos+PDF;2.+Divide+em+chunks+e+gera+embeddings;3.+Busca+os+trechos+mais+relevantes;4.+Qwen+%28Ollama%29+gera+a+resposta" alt="Pipeline RAG"/>
+
+</div>
+
 </td>
 </tr>
 </table>
@@ -106,9 +127,12 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 </div>
 
----
+<br>
 
-## `04` — GitHub Analytics
+<!-- 04 -->
+<div align="center">
+<img width="100%" alt="04 — GitHub Analytics" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=04%20%E2%80%94%20GITHUB%20ANALYTICS&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -121,9 +145,12 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 </div>
 
----
+<br>
 
-## `05` — Contribution Activity
+<!-- 05 -->
+<div align="center">
+<img width="100%" alt="05 — Contribution Activity" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=05%20%E2%80%94%20CONTRIBUTION%20ACTIVITY&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -131,9 +158,12 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 </div>
 
----
+<br>
 
-## `06` — GitHub Trophies
+<!-- 06 -->
+<div align="center">
+<img width="100%" alt="06 — GitHub Trophies" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=06%20%E2%80%94%20GITHUB%20TROPHIES&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -141,9 +171,12 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 </div>
 
----
+<br>
 
-## `07` — Contribution Snake
+<!-- 07 -->
+<div align="center">
+<img width="100%" alt="07 — Contribution Snake" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=07%20%E2%80%94%20CONTRIBUTION%20SNAKE&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -151,9 +184,12 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 </div>
 
----
+<br>
 
-## `08` — Let's connect
+<!-- 08 -->
+<div align="center">
+<img width="100%" alt="08 — Let's connect" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=08%20%E2%80%94%20LET'S%20CONNECT&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+</div>
 
 <div align="center">
 
@@ -177,11 +213,10 @@ Estou aberto a conexões, oportunidades e trocas de conhecimento na área de tec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:050816&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:050816&height=100&section=footer&animation=twinkling"/>
 
 *"The future is built by those who keep learning."*
 
 <sub>Exploring ideas. Building intelligence. Creating possibilities.</sub>
 
 </div>
-    
