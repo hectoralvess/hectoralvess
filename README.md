@@ -84,46 +84,12 @@ Meu objetivo é continuar desenvolvendo minhas habilidades e construir minha tra
 
 <!-- 03 -->
 <div align="center">
-<img width="100%" alt="03 — Projetos" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=03%20%E2%80%94%20PROJETOS&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" alt="03 — Roadmap de aprendizado" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=03%20%E2%80%94%20ROADMAP%20DE%20APRENDIZADO&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IN_DEVELOPMENT-102A56?style=flat-square&logo=github&logoColor=00C8FF"/>
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🤖 Chatbot com Inteligência Artificial
-
-Meu primeiro projeto em desenvolvimento, explorando aplicações de IA e modelos de linguagem.
-
-**Tecnologias e conceitos:**
-
-- Python
-- RAG (Retrieval-Augmented Generation)
-- Ollama
-- Qwen
-- Consulta de documentos PDF
-
-**Objetivo:** desenvolver uma aplicação capaz de responder perguntas utilizando informações presentes em documentos.
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=480&height=40&lines=1.+L%C3%AA+os+documentos+PDF;2.+Divide+em+chunks+e+gera+embeddings;3.+Busca+os+trechos+mais+relevantes;4.+Qwen+%28Ollama%29+gera+a+resposta" alt="Pipeline RAG"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-Novos projetos serão adicionados conforme minha evolução na área.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=560&height=45&lines=Fase+1+%7C+Python+e+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Fase+2+%7C+Dados+e+SQL;Fase+3+%7C+Machine+Learning;Fase+4+%7C+LLMs+e+RAG;Pr%C3%B3xima+fase+%7C+construir+solu%C3%A7%C3%B5es+reais" alt="Roadmap"/>
 
 </div>
 
@@ -131,64 +97,48 @@ Novos projetos serão adicionados conforme minha evolução na área.
 
 <!-- 04 -->
 <div align="center">
-<img width="100%" alt="04 — GitHub Analytics" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=04%20%E2%80%94%20GITHUB%20ANALYTICS&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" alt="04 — Ciclo de aprendizado" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=04%20%E2%80%94%20CICLO%20DE%20APRENDIZADO&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hectoralvess&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralvess&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00C8FF&text_color=C9D1D9"/>
-
-<br>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=hectoralvess&theme=tokyonight&hide_border=true&background=050816&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=560&height=45&lines=estudar+-%3E+experimentar;experimentar+-%3E+errar;errar+-%3E+ajustar;ajustar+-%3E+evoluir;evoluir+-%3E+repetir" alt="Ciclo de aprendizado"/>
 
 </div>
+
+```python
+while aprendendo:
+    estudar()
+    experimentar()
+    errar()
+    ajustar()
+    evoluir()
+```
 
 <br>
 
 <!-- 05 -->
 <div align="center">
-<img width="100%" alt="05 — Contribution Activity" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=05%20%E2%80%94%20CONTRIBUTION%20ACTIVITY&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" alt="05 — Rede neural" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=05%20%E2%80%94%20REDE%20NEURAL&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
 </div>
 
-<div align="center">
+```text
+  entrada        camada oculta        saída
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralvess&bg_color=050816&color=00C8FF&line=0077B6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  (x1) ──┐       ┌── (h1) ──┐
+         ├───────┤          ├──────── (ŷ)
+  (x2) ──┤       ├── (h2) ──┤
+         ├───────┤          │
+  (x3) ──┘       └── (h3) ──┘
 
-</div>
+        dados  →  aprendizado  →  solução
+```
 
 <br>
 
 <!-- 06 -->
 <div align="center">
-<img width="100%" alt="06 — GitHub Trophies" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=06%20%E2%80%94%20GITHUB%20TROPHIES&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hectoralvess&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10"/>
-
-</div>
-
-<br>
-
-<!-- 07 -->
-<div align="center">
-<img width="100%" alt="07 — Contribution Snake" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=07%20%E2%80%94%20CONTRIBUTION%20SNAKE&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
-</div>
-
-<div align="center">
-
-<img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/hectoralvess/hectoralvess/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
-<!-- 08 -->
-<div align="center">
-<img width="100%" alt="08 — Let's connect" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=08%20%E2%80%94%20LET'S%20CONNECT&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" alt="06 — Let's connect" src="https://capsule-render.vercel.app/api?type=rounded&color=0:050816,50:102A56,100:00C8FF&height=70&text=06%20%E2%80%94%20LET'S%20CONNECT&fontColor=FFFFFF&fontSize=26&fontAlignY=50&animation=fadeIn"/>
 </div>
 
 <div align="center">
