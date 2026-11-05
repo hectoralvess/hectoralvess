@@ -1,19 +1,18 @@
-
 <!-- ================================================= -->
 <!-- HECTOR ALVES | AI & MACHINE LEARNING PROFILE      -->
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123C69,100:00C2FF&height=230&section=header&text=HECTOR%20ALVES&fontSize=52&fontColor=EAF6FF&fontAlignY=38&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=58&descColor=9EDFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=230&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=52&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=14&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=35C9FF&center=true&vCenter=true&width=650&lines=Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Python+%7C+Machine+Learning+%7C+RAG+%7C+LLMs;Transformando+curiosidade+em+projetos;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=35C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Python+%7C+Machine+Learning+%7C+RAG+%7C+LLMs;Transformando+curiosidade+em+projetos;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-0B84F3?style=for-the-badge&labelColor=080D1A" />
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&labelColor=080D1A" />
+  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-0B84F3?style=for-the-badge&amp;labelColor=080D1A" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&amp;labelColor=080D1A" />
 </p>
 
 ---
@@ -41,14 +40,14 @@
 <h2 align="left">⌁ 02 / TECH STACK</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0B84F3?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-123C69?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0B84F3?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-123C69?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 </p>
 
 ---
@@ -56,12 +55,12 @@
 <h2 align="left">⌁ 03 / GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hectoralves&show_icons=true&hide_border=true&bg_color=050816&title_color=35C9FF&icon_color=00C2FF&text_color=EAF6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralves&layout=compact&hide_border=true&bg_color=050816&title_color=35C9FF&text_color=EAF6FF&langs_count=6" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hectoralves&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050816&amp;title_color=35C9FF&amp;icon_color=00C2FF&amp;text_color=EAF6FF&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralves&amp;layout=compact&amp;hide_border=true&amp;bg_color=050816&amp;title_color=35C9FF&amp;text_color=EAF6FF&amp;langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=hectoralves&theme=transparent&hide_border=true&background=050816&ring=00C2FF&fire=35C9FF&currStreakLabel=35C9FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8BA4C7" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=hectoralves&amp;theme=transparent&amp;hide_border=true&amp;background=050816&amp;ring=00C2FF&amp;fire=35C9FF&amp;currStreakLabel=35C9FF&amp;sideLabels=EAF6FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8BA4C7" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,7 +68,7 @@
 <h2 align="left">⌁ 04 / CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralves&bg_color=050816&color=35C9FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralves&amp;bg_color=050816&amp;color=35C9FF&amp;line=00C2FF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -77,7 +76,7 @@
 <h2 align="left">⌁ 05 / ACHIEVEMENTS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hectoralves&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hectoralves&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=8" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -98,20 +97,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hector-renato-022a0a379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/hetu_alves/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/hectoralves" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:123C69,100:050816&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C2FF,50:123C69,100:050816&amp;height=120&amp;section=footer" width="100%" />
 </p>
 
 <p align="center">
@@ -119,5 +118,5 @@
 </p>
 
 <p align="center">
-  <sub>Hector Alves · AI & Machine Learning</sub>
+  <sub>Hector Alves · AI &amp; Machine Learning</sub>
 </p>
