@@ -63,3 +63,13 @@
 <p align="center">
   <sub>Hector Alves · AI &amp; Machine Learning</sub>
 </p>
+
+---
+
+<p align="center">
+  <img
+    src="./assets/neural-banner.svg"
+    width="100%"
+    alt="Neural Network Animation"
+  />
+</p>
