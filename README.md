@@ -53,23 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C2FF,50:123C69,100:050816&amp;height=120&amp;section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>Building knowledge. Exploring intelligence. Creating possibilities.</i>
-</p>
-
-<p align="center">
-  <sub>Hector Alves · AI &amp; Machine Learning</sub>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="./assets/neural-banner.svg"
-    width="100%"
-    alt="Neural Network Animation"
-  />
+  <img src="./assets/neural-banner.svg"
+       width="100%"
+       alt="Neural Network Animation">
 </p>
