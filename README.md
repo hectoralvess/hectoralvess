@@ -1,91 +1,123 @@
-<!-- HEADER -->
-<h1 align="center">HECTOR ALVES</h1>
+
+<!-- ================================================= -->
+<!-- HECTOR ALVES | AI & MACHINE LEARNING PROFILE      -->
+<!-- ================================================= -->
 
 <p align="center">
-  <b>Inteligência Artificial · Machine Learning · Desenvolvimento de Software</b><br/>
-  Mauá, SP
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123C69,100:00C2FF&height=230&section=header&text=HECTOR%20ALVES&fontSize=52&fontColor=EAF6FF&fontAlignY=38&animation=twinkling&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=58&descColor=9EDFFF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUSCANDO-EST%C3%81GIO%20EM%20IA%20%26%20DEV-071A2F?style=for-the-badge&labelColor=050816&color=087EBA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=35C9FF&center=true&vCenter=true&width=650&lines=Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Python+%7C+Machine+Learning+%7C+RAG+%7C+LLMs;Transformando+curiosidade+em+projetos;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-0B84F3?style=for-the-badge&labelColor=080D1A" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&labelColor=080D1A" />
+</p>
 
-<!-- 01 -->
-## `> 01 Sobre mim`
+---
 
-Sou o Hector, de Mauá (SP). Faço Inteligência Artificial e Machine Learning (3º semestre) e sou técnico em Mecatrônica. Minha porta de entrada na programação foi o Arduino, nas aulas do técnico.
+<h2 align="left">⌁ 01 / SOBRE MIM</h2>
 
-Trabalho com eletrônica: teste, manutenção de placas e análise de circuitos. Na Fiberwan, comecei como estagiário e cheguei a Auxiliar Técnico em Eletrônica Pleno III. Já liderei a equipe da produção enquanto meu chefe estava de férias.
+<p>
+  Olá! Sou <strong>Hector Renato</strong>, estudante de Inteligência Artificial e Machine Learning, interessado em entender como a tecnologia pode resolver problemas reais.
+</p>
 
-Agora quero levar essa mentalidade de bancada (testar, isolar o defeito, resolver) para a IA e para o software. Meu kit: **Python, SQL e Java**, com foco em **RAG**. Estou procurando **estágio em IA/ML ou desenvolvimento de software**.
+<p>
+  Minha jornada na tecnologia passa pela programação, inteligência artificial e desenvolvimento de soluções. Tenho direcionado meus estudos para Python, Machine Learning, RAG e LLMs, buscando transformar o conhecimento adquirido em projetos práticos.
+</p>
 
-<br/>
+<p>
+  Atualmente, meu objetivo é conquistar uma oportunidade de estágio em Inteligência Artificial, Machine Learning ou Desenvolvimento de Software, onde eu possa aprender, contribuir e evoluir profissionalmente.
+</p>
 
-<!-- 02 -->
-## `> 02 Tecnologias`
+<p align="center">
+  <i>Não quero apenas acompanhar a evolução da tecnologia. Quero participar dela.</i>
+</p>
 
-<div align="center">
+---
 
-  <img src="https://img.shields.io/badge/Python-071A2F?style=for-the-badge&logo=python&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/Java-071A2F?style=for-the-badge&logo=openjdk&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/MySQL-071A2F?style=for-the-badge&logo=mysql&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/TensorFlow-071A2F?style=for-the-badge&logo=tensorflow&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/Arduino-071A2F?style=for-the-badge&logo=arduino&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/Git-071A2F?style=for-the-badge&logo=git&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=00C8FF"/>
+<h2 align="left">⌁ 02 / TECH STACK</h2>
 
-  <br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+</p>
 
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-071A2F?style=for-the-badge&logo=openai&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-071A2F?style=for-the-badge&logo=scikitlearn&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/RAG-071A2F?style=for-the-badge&logo=databricks&logoColor=00C8FF"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0B84F3?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-123C69?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-</div>
+---
 
-<br/>
+<h2 align="left">⌁ 03 / GITHUB ANALYTICS</h2>
 
-<!-- 03 -->
-## `> 03 O que já construí`
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hectoralves&show_icons=true&hide_border=true&bg_color=050816&title_color=35C9FF&icon_color=00C2FF&text_color=EAF6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralves&layout=compact&hide_border=true&bg_color=050816&title_color=35C9FF&text_color=EAF6FF&langs_count=6" alt="Top Languages" />
+</p>
 
-- **Classificador de tickets com TensorFlow:** projeto acadêmico de IA/ML.
-- **Sistema digital de agendamento para ateliê de costura:** projeto em grupo na faculdade.
-- **Banco `techstore_db` em MySQL:** 18 stored procedures com consultas, parâmetros OUT/INOUT e estruturas condicionais.
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=hectoralves&theme=transparent&hide_border=true&background=050816&ring=00C2FF&fire=35C9FF&currStreakLabel=35C9FF&sideLabels=EAF6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8BA4C7" alt="GitHub Streak" />
+</p>
 
-<br/>
+---
 
-<!-- 04 -->
-## `> 04 Fora do código`
+<h2 align="left">⌁ 04 / CONTRIBUTION ACTIVITY</h2>
 
-Gosto de destrinchar jogo de futebol com estatística e probabilidade, e a Copa de 2026 rendeu muita conta. Na trilha sonora: forró, arrocha e sofrência.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralves&bg_color=050816&color=35C9FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
+</p>
 
-<br/>
+---
 
-<!-- 05 -->
-## `> 05 Vamos conversar?`
+<h2 align="left">⌁ 05 / ACHIEVEMENTS</h2>
 
-Tem vaga de estágio em IA ou desenvolvimento, um projeto que precise de mais uma pessoa, ou só vontade de trocar ideia sobre IA e futebol? Me chama por aqui:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hectoralves&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
+</p>
 
-<div align="center">
+---
 
+<h2 align="left">⌁ 06 / CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hectoralves/hectoralves/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hectoralves/hectoralves/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hectoralves/hectoralves/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+<h2 align="left">⌁ 07 / LET'S CONNECT</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/hector-renato-022a0a379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00C8FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://instagram.com/hetu_alves" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A192F?style=for-the-badge&logo=instagram&logoColor=00C8FF"/>
+  <a href="https://www.instagram.com/hetu_alves/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://github.com/hectoralves" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-</div>
+---
 
-<br/>
-
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUSED%20ON-ARTIFICIAL%20INTELLIGENCE-071A2F?style=flat-square&labelColor=050816&color=087EBA"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:123C69,100:050816&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <sub>Da bancada de eletrônica para o mundo da IA.</sub>
+  <i>Building knowledge. Exploring intelligence. Creating possibilities.</i>
+</p>
+
+<p align="center">
+  <sub>Hector Alves · AI & Machine Learning</sub>
 </p>
