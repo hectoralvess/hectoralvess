@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:087EBA&height=190&section=header&text=HECTOR%20ALVES&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=60&animation=fadeIn" />
+  <img width="100%" src="assets/banner-header.svg" alt="Hector Alves - Artificial Intelligence | Software Development" />
 </div>
 
 <!-- TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Intelig%C3%AAncia+Artificial+%26+Machine+Learning;Python+%7C+RAG+%7C+Desenvolvimento+de+Software;Tecnologia+transformando+ideias+em+solu%C3%A7%C3%B5es." alt="Typing animation" />
+  <img src="assets/typing.svg" alt="Inteligência Artificial & Machine Learning | Python, RAG e Desenvolvimento de Software" />
 </div>
 
 <br/>
@@ -13,11 +13,11 @@
 <!-- ABOUT -->
 ## `> Sobre mim`
 
-Olá! Sou **Hector Renato do Vale Alves Santos**, estudante de Inteligência Artificial e Machine Learning, interessado em como a tecnologia pode transformar problemas reais em soluções inteligentes.
+Olá! Sou **Hector Renato do Vale Alves Santos**, estudante de **Inteligência Artificial e Machine Learning** (3º semestre) e técnico em Mecatrônica. Minha jornada na programação começou com projetos em Arduino e hoje se une ao estudo de IA e desenvolvimento de software.
 
-Tenho interesse especial em Inteligência Artificial, Machine Learning e desenvolvimento de software, com foco em Python e arquiteturas RAG.
+Trabalho com eletrônica, fazendo testes, manutenção de placas e análise de circuitos, e levo desse dia a dia o hábito de diagnosticar problemas com método e atenção aos detalhes.
 
-Atualmente, busco uma oportunidade de **estágio em Inteligência Artificial ou Desenvolvimento de Software**, onde possa contribuir com soluções tecnológicas e participar de projetos que envolvam inovação.
+Atualmente estudo **Python, SQL e Java**, com foco em Python e arquiteturas **RAG**, e busco uma oportunidade de **estágio em Inteligência Artificial ou Desenvolvimento de Software**, onde eu possa contribuir, aprender com um time e participar de projetos que envolvam inovação.
 
 <br/>
 
@@ -26,7 +26,12 @@ Atualmente, busco uma oportunidade de **estágio em Inteligência Artificial ou 
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-071A2F?style=for-the-badge&logo=python&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/Java-071A2F?style=for-the-badge&logo=openjdk&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/SQL-071A2F?style=for-the-badge&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/Arduino-071A2F?style=for-the-badge&logo=arduino&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/Git-071A2F?style=for-the-badge&logo=git&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=00C8FF"/>
 
   <br/><br/>
 
@@ -43,40 +48,13 @@ Atualmente, busco uma oportunidade de **estágio em Inteligência Artificial ou 
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hectoralvess&show_icons=true&hide_border=true&bg_color=050816&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img width="48%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil no GitHub" />
+  <img width="48%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectoralvess&layout=compact&hide_border=true&bg_color=050816&title_color=00C8FF&text_color=C9D1D9" />
+  <img width="48%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img width="48%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
 
-</div>
-
-<br/>
-
-<!-- STREAK -->
-<div align="center">
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=hectoralvess&theme=transparent&hide_border=true&background=050816&stroke=0B1F3A&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-## `> Contribution Activity`
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hectoralvess&bg_color=050816&color=C9D1D9&line=00C8FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-## `> GitHub Achievements`
-
-<div align="center">
-
-  <img width="85%" src="https://github-profile-trophy.vercel.app/?username=hectoralvess&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" />
+  <img width="48%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários mais produtivos" />
 
 </div>
 
@@ -98,7 +76,9 @@ Atualmente, busco uma oportunidade de **estágio em Inteligência Artificial ou 
 <br/>
 
 <!-- SOCIAL -->
-## `> Connect with me`
+## `> Vamos conversar?`
+
+Estou aberto a conversas sobre estágio, projetos e tecnologia. Me chama por aqui:
 
 <div align="center">
 
@@ -117,12 +97,12 @@ Atualmente, busco uma oportunidade de **estágio em Inteligência Artificial ou 
 <!-- FOOTER -->
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:087EBA,50:0B1F3A,100:050816&height=110&section=footer" />
+  <img width="100%" src="assets/banner-footer.svg" alt="" />
 
   <p>
-    <img src="https://img.shields.io/badge/FOCUSED%20ON-ARTIFICIAL%20INTELLIGENCE-071A2F?style=flat-square&labelColor=050816&color=087EBA"/>
+    <img src="https://img.shields.io/badge/BUSCANDO-EST%C3%81GIO%20EM%20IA%20%26%20DEV-071A2F?style=flat-square&labelColor=050816&color=087EBA"/>
   </p>
 
-  <sub>Construindo soluções com tecnologia e inteligência.</sub>
+  <sub>Construindo soluções com tecnologia e inteligência, um commit de cada vez.</sub>
 
 </div>
