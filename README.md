@@ -1,34 +1,37 @@
-<!-- BANNER -->
-<div align="center">
-  <img width="100%" src="assets/banner-header.svg" alt="Hector Alves - Artificial Intelligence | Software Development" />
-</div>
+<!-- HEADER -->
+<h1 align="center">HECTOR ALVES</h1>
 
-<!-- TYPING -->
-<div align="center">
-  <img src="assets/typing.svg" alt="Inteligência Artificial & Machine Learning | Python, RAG e Desenvolvimento de Software" />
-</div>
+<p align="center">
+  <b>Inteligência Artificial · Machine Learning · Desenvolvimento de Software</b><br/>
+  Mauá, SP
+</p>
 
-<br/>
-
-<!-- ABOUT -->
-## `> Sobre mim`
-
-Olá! Sou **Hector Renato do Vale Alves Santos**, estudante de **Inteligência Artificial e Machine Learning** (3º semestre) e técnico em Mecatrônica. Minha jornada na programação começou com projetos em Arduino e hoje se une ao estudo de IA e desenvolvimento de software.
-
-Trabalho com eletrônica, fazendo testes, manutenção de placas e análise de circuitos, e levo desse dia a dia o hábito de diagnosticar problemas com método e atenção aos detalhes.
-
-Atualmente estudo **Python, SQL e Java**, com foco em Python e arquiteturas **RAG**, e busco uma oportunidade de **estágio em Inteligência Artificial ou Desenvolvimento de Software**, onde eu possa contribuir, aprender com um time e participar de projetos que envolvam inovação.
+<p align="center">
+  <img src="https://img.shields.io/badge/BUSCANDO-EST%C3%81GIO%20EM%20IA%20%26%20DEV-071A2F?style=for-the-badge&labelColor=050816&color=087EBA"/>
+</p>
 
 <br/>
 
-<!-- TECHNOLOGIES -->
-## `> Tecnologias`
+<!-- 01 -->
+## `> 01 Sobre mim`
+
+Sou o Hector, de Mauá (SP). Faço Inteligência Artificial e Machine Learning (3º semestre) e sou técnico em Mecatrônica. Minha porta de entrada na programação foi o Arduino, nas aulas do técnico.
+
+Trabalho com eletrônica: teste, manutenção de placas e análise de circuitos. Na Fiberwan, comecei como estagiário e cheguei a Auxiliar Técnico em Eletrônica Pleno III. Já liderei a equipe da produção enquanto meu chefe estava de férias.
+
+Agora quero levar essa mentalidade de bancada (testar, isolar o defeito, resolver) para a IA e para o software. Meu kit: **Python, SQL e Java**, com foco em **RAG**. Estou procurando **estágio em IA/ML ou desenvolvimento de software**.
+
+<br/>
+
+<!-- 02 -->
+## `> 02 Tecnologias`
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-071A2F?style=for-the-badge&logo=python&logoColor=00C8FF"/>
   <img src="https://img.shields.io/badge/Java-071A2F?style=for-the-badge&logo=openjdk&logoColor=00C8FF"/>
-  <img src="https://img.shields.io/badge/SQL-071A2F?style=for-the-badge&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/MySQL-071A2F?style=for-the-badge&logo=mysql&logoColor=00C8FF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-071A2F?style=for-the-badge&logo=tensorflow&logoColor=00C8FF"/>
   <img src="https://img.shields.io/badge/Arduino-071A2F?style=for-the-badge&logo=arduino&logoColor=00C8FF"/>
   <img src="https://img.shields.io/badge/Git-071A2F?style=for-the-badge&logo=git&logoColor=00C8FF"/>
   <img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=00C8FF"/>
@@ -43,42 +46,26 @@ Atualmente estudo **Python, SQL e Java**, com foco em Python e arquiteturas **RA
 
 <br/>
 
-<!-- GITHUB STATS -->
-## `> GitHub Analytics`
+<!-- 03 -->
+## `> 03 O que já construí`
 
-<div align="center">
-
-  <img width="48%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Perfil no GitHub" />
-  <img width="48%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
-
-  <img width="48%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
-  <img width="48%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
-
-  <img width="48%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horários mais produtivos" />
-
-</div>
+- **Classificador de tickets com TensorFlow:** projeto acadêmico de IA/ML.
+- **Sistema digital de agendamento para ateliê de costura:** projeto em grupo na faculdade.
+- **Banco `techstore_db` em MySQL:** 18 stored procedures com consultas, parâmetros OUT/INOUT e estruturas condicionais.
 
 <br/>
 
-<!-- SNAKE -->
-## `> Contribution Snake`
+<!-- 04 -->
+## `> 04 Fora do código`
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hectoralvess/hectoralvess/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hectoralvess/hectoralvess/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hectoralvess/hectoralvess/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-</div>
+Gosto de destrinchar jogo de futebol com estatística e probabilidade, e a Copa de 2026 rendeu muita conta. Na trilha sonora: forró, arrocha e sofrência.
 
 <br/>
 
-<!-- SOCIAL -->
-## `> Vamos conversar?`
+<!-- 05 -->
+## `> 05 Vamos conversar?`
 
-Estou aberto a conversas sobre estágio, projetos e tecnologia. Me chama por aqui:
+Tem vaga de estágio em IA ou desenvolvimento, um projeto que precise de mais uma pessoa, ou só vontade de trocar ideia sobre IA e futebol? Me chama por aqui:
 
 <div align="center">
 
@@ -95,14 +82,10 @@ Estou aberto a conversas sobre estágio, projetos e tecnologia. Me chama por aqu
 <br/>
 
 <!-- FOOTER -->
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUSED%20ON-ARTIFICIAL%20INTELLIGENCE-071A2F?style=flat-square&labelColor=050816&color=087EBA"/>
+</p>
 
-  <img width="100%" src="assets/banner-footer.svg" alt="" />
-
-  <p>
-    <img src="https://img.shields.io/badge/BUSCANDO-EST%C3%81GIO%20EM%20IA%20%26%20DEV-071A2F?style=flat-square&labelColor=050816&color=087EBA"/>
-  </p>
-
-  <sub>Construindo soluções com tecnologia e inteligência, um commit de cada vez.</sub>
-
-</div>
+<p align="center">
+  <sub>Da bancada de eletrônica para o mundo da IA.</sub>
+</p>
