@@ -21,7 +21,7 @@
 
 ## `01` — Sobre mim
 
-```python
+python
 class HectorAlves:
 
     def __init__(self):
@@ -117,4 +117,3 @@ Objetivo: desenvolver uma aplicação capaz de responder perguntas utilizando in
 <sub>Exploring ideas. Building intelligence. Creating possibilities.</sub>
 
 </div>
-```
