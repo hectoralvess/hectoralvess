@@ -37,6 +37,29 @@
 
 ---
 
+<h2 align="left"> CONTATO
+
+<p align="center">
+  <b>💬 Vamos conversar?</b><br/>
+  Estou aberto a conexões, oportunidades profissionais e projetos na área de tecnologia, Back-end e Inteligência Artificial.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hector-renato-022a0a379" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:hectoralvess21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/hetu_alves/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
 <h2 align="left"> TECH STACK</h2>
 
 <!-- BACK-END & DEVELOPMENT -->
