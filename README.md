@@ -39,7 +39,7 @@
 
 <h2 align="left"> CONTATO
 
-<p align="center">
+<p>
   
   Estou aberto a conexões, oportunidades profissionais e projetos na área de tecnologia e Inteligência Artificial.
 </p>
