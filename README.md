@@ -60,16 +60,12 @@
 </p>
 
 ---
+
 <h2 align="left"> EDUCAÇÃO
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bachelor's-Inteligência%20Artificial%20e%20Machine%20Learning-0B84F3?style=for-the-badge&logo=academia&logoColor=white" alt="Bacharelado em Inteligência Artificial e Machine Learning" />
-</p>
-
-<p align="center">
-  <b>Faculdade das Américas — FAM</b><br/>
-  <sub>Bacharelado em Inteligência Artificial e Machine Learning</sub><br/>
-  <sub>Em andamento</sub>
+  <b>Inteligência Artificial e Machine Learning</b><br/>
+  <sub>Faculdade das Américas (FAM) · Bacharelado em andamento</sub>
 </p>
 
 ---
