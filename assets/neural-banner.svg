@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 320"
+     width="1200" height="320">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#061b35"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#00c2ff" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#00c2ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+
+  <!-- Conexões da rede neural -->
+  <g stroke="#168bd0" stroke-width="2" opacity=".55">
+    <path d="M100 70 L300 150 L500 70 L700 150 L900 70 L1100 150"/>
+    <path d="M100 250 L300 150 L500 250 L700 150 L900 250 L1100 150"/>
+    <path d="M100 70 L300 250"/>
+    <path d="M500 70 L700 250"/>
+    <path d="M900 70 L1100 250"/>
+  </g>
+
+  <!-- Nós animados -->
+  <g fill="#00c2ff">
+    <circle cx="100" cy="70" r="10"/>
+    <circle cx="100" cy="250" r="10"/>
+    <circle cx="300" cy="150" r="13"/>
+    <circle cx="500" cy="70" r="10"/>
+    <circle cx="500" cy="250" r="10"/>
+    <circle cx="700" cy="150" r="13"/>
+    <circle cx="900" cy="70" r="10"/>
+    <circle cx="900" cy="250" r="10"/>
+    <circle cx="1100" cy="150" r="13"/>
+
+    <circle cx="300" cy="150" r="22" fill="url(#glow)">
+      <animate attributeName="r"
+        values="18;32;18" dur="2s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="700" cy="150" r="22" fill="url(#glow)">
+      <animate attributeName="r"
+        values="18;32;18" dur="2.5s"
+        repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Partículas -->
+  <g fill="#7dd3fc">
+    <circle r="4">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M100 70 L300 150 L500 70"/>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="5s" repeatCount="indefinite"
+        path="M100 250 L300 150 L500 250"/>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M500 70 L700 150 L900 70"/>
+    </circle>
+  </g>
+
+  <!-- Título -->
+  <text x="600" y="285"
+        fill="#eaf6ff"
+        font-family="Arial"
+        font-size="25"
+        letter-spacing="5"
+        text-anchor="middle">
+    ARTIFICIAL INTELLIGENCE • MACHINE LEARNING
+  </text>
+
+</svg>
