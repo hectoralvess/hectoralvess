@@ -61,12 +61,21 @@
 
 ---
 
-<h2 align="left"> EDUCAÇÃO
+<h2 align="left"> EDUCAÇÃO </h2>
 
 <p align="center">
-  <b>Inteligência Artificial e Machine Learning</b><br/>
-  <sub>Faculdade das Américas (FAM) · Bacharelado em andamento</sub>
+  <strong>Inteligência Artificial e Machine Learning</strong><br>
+  Faculdade das Américas (FAM)<br>
+  <sub>Bacharelado · Em andamento</sub>
 </p>
+
+<p align="center">
+  <strong>Desenvolvimento Back-end em Python</strong><br>
+  Alura<br>
+  <sub>Carreira em andamento</sub>
+</p>
+
+<hr>
 
 ---
 
