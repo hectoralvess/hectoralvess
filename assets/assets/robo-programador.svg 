@@ -1,0 +1,246 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+<defs>
+  <linearGradient id="bg" x2="0" y2="1">
+    <stop stop-color="#07172b"/>
+    <stop offset="1" stop-color="#020813"/>
+  </linearGradient>
+  <linearGradient id="armor" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#e5f5ff"/>
+    <stop offset=".3" stop-color="#829db9"/>
+    <stop offset=".65" stop-color="#344e6c"/>
+    <stop offset="1" stop-color="#14263d"/>
+  </linearGradient>
+  <linearGradient id="darkArmor" x2="0" y2="1">
+    <stop stop-color="#456786"/>
+    <stop offset=".5" stop-color="#1a3551"/>
+    <stop offset="1" stop-color="#0a1a2c"/>
+  </linearGradient>
+  <linearGradient id="screen" x2="0" y2="1">
+    <stop stop-color="#102b47"/>
+    <stop offset="1" stop-color="#030c19"/>
+  </linearGradient>
+  <linearGradient id="cyan" x2="1" y2="1">
+    <stop stop-color="#9afaff"/>
+    <stop offset=".5" stop-color="#00cfff"/>
+    <stop offset="1" stop-color="#0879ff"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <filter id="softGlow">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
+</defs>
+
+<!-- Background -->
+<rect width="800" height="520" rx="18" fill="url(#bg)"/>
+<ellipse cx="400" cy="290" rx="260" ry="210" fill="#007bff" opacity=".08" filter="url(#softGlow)"/>
+<path d="M25 90H775M25 450H775" stroke="#123653" opacity=".7"/>
+<path d="M40 30H150M650 30H760M40 490H150M650 490H760" stroke="#00bfff" opacity=".35"/>
+
+<!-- Background circuit details -->
+<g fill="none" stroke="#087bb4" stroke-width="1.5" opacity=".45">
+  <path d="M30 150H90V180H130"/>
+  <path d="M30 165H70V205H115"/>
+  <path d="M770 145H710V180H670"/>
+  <path d="M770 165H735V210H690"/>
+  <path d="M75 390H130V365H170"/>
+  <path d="M725 390H670V365H630"/>
+</g>
+<g fill="#00dfff" filter="url(#glow)">
+  <circle cx="130" cy="180" r="3"/>
+  <circle cx="115" cy="205" r="3"/>
+  <circle cx="670" cy="180" r="3"/>
+  <circle cx="690" cy="210" r="3"/>
+</g>
+
+<!-- Left AI panel -->
+<g>
+  <rect x="35" y="105" width="155" height="135" rx="10" fill="#081a2d" stroke="#17608d"/>
+  <text x="49" y="126" fill="#48cfff" font-size="10" font-family="monospace" letter-spacing="1.5">AI NEURAL CORE</text>
+  <g stroke="#1688bd" stroke-width="1.5" fill="none">
+    <path d="M65 160L95 145L125 160L155 145M65 160L95 190L125 175L155 190M95 145L95 190M125 160L125 175"/>
+  </g>
+  <g fill="#00dfff" filter="url(#glow)">
+    <circle cx="65" cy="160" r="5"/>
+    <circle cx="95" cy="145" r="5"/>
+    <circle cx="125" cy="160" r="5"/>
+    <circle cx="155" cy="145" r="5"/>
+    <circle cx="95" cy="190" r="5"/>
+    <circle cx="125" cy="175" r="5"/>
+    <circle cx="155" cy="190" r="5"/>
+  </g>
+  <text x="49" y="220" fill="#7faacb" font-size="9" font-family="monospace">MACHINE LEARNING</text>
+</g>
+
+<!-- Right code panel -->
+<g>
+  <rect x="605" y="90" width="160" height="175" rx="10" fill="#081a2d" stroke="#17608d"/>
+  <rect x="605" y="90" width="160" height="25" rx="10" fill="#102c47"/>
+  <circle cx="620" cy="102" r="3" fill="#ff667a"/>
+  <circle cx="631" cy="102" r="3" fill="#ffcb66"/>
+  <circle cx="642" cy="102" r="3" fill="#50e5ad"/>
+  <text x="618" y="132" fill="#00dfff" font-size="10" font-family="monospace">main.py</text>
+  <g font-family="monospace" font-size="9">
+    <text x="618" y="153" fill="#d6a6ff">class</text>
+    <text x="647" y="153" fill="#75dfff">AIModel:</text>
+    <text x="625" y="170" fill="#8faecb">def train(self):</text>
+    <text x="634" y="187" fill="#66e5b6">model.fit(data)</text>
+    <text x="625" y="204" fill="#8faecb">return accuracy</text>
+    <text x="618" y="230" fill="#00dfff"># system active</text>
+  </g>
+  <rect x="618" y="242" width="125" height="3" rx="2" fill="#173b58"/>
+  <rect x="618" y="242" width="75" height="3" rx="2" fill="#00dfff">
+    <animate attributeName="width" values="25;125;75;25" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Robot antenna -->
+<path d="M400 53V33" stroke="#91abc5" stroke-width="6" stroke-linecap="round"/>
+<path d="M400 53V33" stroke="#d9f4ff" stroke-width="2"/>
+<circle cx="400" cy="27" r="9" fill="#0879b9" stroke="#8ceeff" stroke-width="2"/>
+<circle cx="400" cy="27" r="4" fill="#00eaff" filter="url(#glow)">
+  <animate attributeName="opacity" values=".4;1;.4" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Robot head -->
+<rect x="320" y="65" width="160" height="130" rx="38" fill="url(#armor)" stroke="#c4e4f9" stroke-width="2"/>
+<path d="M337 84Q400 61 463 84" fill="none" stroke="#e5f7ff" stroke-width="3" opacity=".7"/>
+<path d="M340 101Q400 82 460 101V157Q400 183 340 157Z" fill="url(#screen)" stroke="#427da5" stroke-width="2"/>
+
+<!-- Visor reflections -->
+<path d="M352 106L380 98M420 98L448 106" stroke="#5c9ec2" stroke-width="2" opacity=".6"/>
+
+<!-- Eyes -->
+<g filter="url(#glow)" stroke="#00eaff" stroke-width="7" stroke-linecap="round">
+  <path d="M360 128H382"/>
+  <path d="M418 128H440"/>
+</g>
+<g fill="#d6ffff">
+  <circle cx="371" cy="128" r="2"/>
+  <circle cx="429" cy="128" r="2"/>
+</g>
+<path d="M385 151Q400 159 415 151" fill="none" stroke="#39c9ec" stroke-width="2"/>
+<path d="M391 164H409" stroke="#1684b4" stroke-width="2"/>
+
+<!-- Side ear modules -->
+<path d="M320 104H304Q294 104 294 116V151Q294 163 306 163H320" fill="url(#darkArmor)" stroke="#9bbbd4" stroke-width="2"/>
+<path d="M480 104H496Q506 104 506 116V151Q506 163 494 163H480" fill="url(#darkArmor)" stroke="#9bbbd4" stroke-width="2"/>
+<circle cx="307" cy="133" r="5" fill="#00dfff" filter="url(#glow)"/>
+<circle cx="493" cy="133" r="5" fill="#00dfff" filter="url(#glow)"/>
+<path d="M307 119V147M493 119V147" stroke="#b8d5e8" stroke-width="2"/>
+
+<!-- Neck -->
+<path d="M370 190V216H430V190" fill="url(#darkArmor)" stroke="#8ba9c3" stroke-width="2"/>
+<path d="M382 199H418M382 207H418" stroke="#00dfff" stroke-width="2"/>
+
+<!-- Shoulders -->
+<path d="M320 215Q286 209 265 236L283 277L326 264Z" fill="url(#armor)" stroke="#a9c7df" stroke-width="2"/>
+<path d="M480 215Q514 209 535 236L517 277L474 264Z" fill="url(#armor)" stroke="#a9c7df" stroke-width="2"/>
+<path d="M278 241L303 230M522 241L497 230" stroke="#00bde9" stroke-width="3"/>
+
+<!-- Torso -->
+<path d="M320 211Q400 184 480 211L505 350Q400 382 295 350Z" fill="url(#armor)" stroke="#c2dff3" stroke-width="2"/>
+<path d="M339 229Q400 210 461 229L475 330Q400 354 325 330Z" fill="#0a2037" stroke="#4b87ae" stroke-width="2"/>
+<path d="M351 244H449V258H351Z" rx="4" fill="#163d5d" stroke="#347da7"/>
+<text x="400" y="255" text-anchor="middle" fill="#8beaff" font-size="8" font-family="monospace">AI / ML UNIT</text>
+<circle cx="400" cy="290" r="19" fill="#102e4b" stroke="#168dc2" stroke-width="2"/>
+<circle cx="400" cy="290" r="11" fill="#00bfff" opacity=".35" filter="url(#glow)"/>
+<circle cx="400" cy="290" r="5" fill="#a5ffff" filter="url(#glow)"/>
+<path d="M350 318H450M360 326H440" stroke="#2d6388" stroke-width="2"/>
+<path d="M310 279L328 285M490 279L472 285" stroke="#d4ebfa" stroke-width="3"/>
+
+<!-- Left arm -->
+<path d="M285 245L245 280L220 332" fill="none" stroke="#526f8d" stroke-width="25" stroke-linecap="round"/>
+<path d="M285 245L245 280L220 332" fill="none" stroke="#9eb9d1" stroke-width="2" stroke-linecap="round"/>
+<circle cx="245" cy="280" r="17" fill="url(#darkArmor)" stroke="#bdd7ea" stroke-width="2"/>
+<circle cx="245" cy="280" r="7" fill="#00dfff" filter="url(#glow)"/>
+<path d="M220 332L244 354" stroke="#829db8" stroke-width="18" stroke-linecap="round"/>
+<path d="M220 332L244 354" stroke="#d4eafa" stroke-width="2" stroke-linecap="round"/>
+
+<!-- Right arm -->
+<path d="M515 245L555 280L580 332" fill="none" stroke="#526f8d" stroke-width="25" stroke-linecap="round"/>
+<path d="M515 245L555 280L580 332" fill="none" stroke="#9eb9d1" stroke-width="2" stroke-linecap="round"/>
+<circle cx="555" cy="280" r="17" fill="url(#darkArmor)" stroke="#bdd7ea" stroke-width="2"/>
+<circle cx="555" cy="280" r="7" fill="#00dfff" filter="url(#glow)"/>
+<path d="M580 332L556 354" stroke="#829db8" stroke-width="18" stroke-linecap="round"/>
+<path d="M580 332L556 354" stroke="#d4eafa" stroke-width="2" stroke-linecap="round"/>
+
+<!-- Forearms -->
+<path d="M244 354L267 371L281 353" fill="none" stroke="#829db8" stroke-width="13" stroke-linecap="round"/>
+<path d="M556 354L533 371L519 353" fill="none" stroke="#829db8" stroke-width="13" stroke-linecap="round"/>
+
+<!-- Desk -->
+<path d="M100 395H700" stroke="#527493" stroke-width="7" stroke-linecap="round"/>
+<path d="M145 402V480M655 402V480" stroke="#294661" stroke-width="8"/>
+<path d="M145 480H655" stroke="#16334e" stroke-width="5"/>
+
+<!-- Monitor -->
+<rect x="290" y="300" width="220" height="110" rx="9" fill="#172e47" stroke="#8baecb" stroke-width="3"/>
+<rect x="300" y="310" width="200" height="88" rx="4" fill="url(#screen)" stroke="#1b7eaa"/>
+<rect x="300" y="310" width="200" height="15" rx="4" fill="#183b59"/>
+<circle cx="310" cy="317" r="2.5" fill="#ff6b7d"/>
+<circle cx="319" cy="317" r="2.5" fill="#ffd16e"/>
+<circle cx="328" cy="317" r="2.5" fill="#54e5a8"/>
+<text x="340" y="320" fill="#8abbdc" font-size="7" font-family="monospace">developer_workspace.py</text>
+
+<!-- Monitor code -->
+<g font-family="monospace" font-size="8">
+  <text x="312" y="341" fill="#d5aaff">import</text>
+  <text x="341" y="341" fill="#7edfff"> tensorflow</text>
+  <text x="312" y="353" fill="#a9c8e0">model = NeuralNetwork()</text>
+  <text x="312" y="365" fill="#6ee5b5">model.train(dataset)</text>
+  <text x="312" y="377" fill="#a9c8e0">print("AI ready")</text>
+  <rect x="312" y="383" width="4" height="9" fill="#00eaff">
+    <animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<path d="M385 410V421H415V410" stroke="#7899b7" stroke-width="6" fill="none"/>
+<path d="M365 423H435" stroke="#9ab6cf" stroke-width="5" stroke-linecap="round"/>
+
+<!-- Keyboard -->
+<path d="M240 386L560 386L585 411H215Z" fill="#1b3550" stroke="#7697b6" stroke-width="2"/>
+<path d="M252 391H548L565 405H235Z" fill="#071727"/>
+<g fill="#6b91b1">
+  <path d="M258 394H280V399H258ZM286 394H308V399H286ZM314 394H336V399H314ZM342 394H364V399H342ZM370 394H392V399H370ZM398 394H420V399H398ZM426 394H448V399H426ZM454 394H476V399H454ZM482 394H504V399H482ZM510 394H532V399H510Z"/>
+  <path d="M270 402H294V405H270ZM300 402H324V405H300ZM330 402H354V405H330ZM360 402H440V405H360ZM446 402H470V405H446ZM476 402H500V405H476Z"/>
+</g>
+<g fill="#00dfff" filter="url(#glow)">
+  <rect x="342" y="394" width="22" height="5" rx="1"/>
+  <rect x="398" y="394" width="22" height="5" rx="1"/>
+</g>
+
+<!-- Robot hands typing -->
+<g fill="url(#armor)" stroke="#c0d8eb" stroke-width="1.5">
+  <path d="M265 366Q278 357 289 368L297 383L287 390L270 382Z"/>
+  <path d="M535 366Q522 357 511 368L503 383L513 390L530 382Z"/>
+  <path d="M277 374L288 383M523 374L512 383" fill="none"/>
+</g>
+<g fill="#00dfff">
+  <circle cx="282" cy="374" r="2.5"/>
+  <circle cx="518" cy="374" r="2.5"/>
+</g>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur=".28s" repeatCount="indefinite"/>
+  <path d="M274 379L280 387M526 379L520 387" stroke="#e0f5ff" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<!-- Tiny activity lights -->
+<g fill="#00dfff" filter="url(#glow)">
+  <circle cx="190" cy="290" r="3">
+    <animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="610" cy="300" r="3">
+    <animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- Footer -->
+<text x="400" y="462" text-anchor="middle" fill="#7edfff" font-size="12" font-family="monospace" letter-spacing="3">AI DEVELOPER // SYSTEM ONLINE</text>
+<text x="400" y="482" text-anchor="middle" fill="#426b8b" font-size="8" font-family="monospace" letter-spacing="2">PYTHON • MACHINE LEARNING • DEEP LEARNING</text>
+</svg>
