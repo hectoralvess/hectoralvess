@@ -118,17 +118,6 @@
 ---
 
 <p align="center">
-  <img
-    src="./assets/robo-programador.svg"
-    width="500"
-    alt="Robô futurista programando em Python e inteligência artificial"
-  />
-</p>
-
-
----
-
-<p align="center">
   <img src="./assets/neural-banner.svg"
        width="100%"
        alt="Neural Network Animation">
