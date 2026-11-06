@@ -72,9 +72,6 @@
   Carreira em andamento
 </p>
 
-<hr>
-
-
 ---
 
 <h2 align="left"> TECH STACK</h2>
