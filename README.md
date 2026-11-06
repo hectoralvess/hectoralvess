@@ -101,6 +101,23 @@
 </p>
 
 ---
+<h2 align="left"> PROJETOS</h2>
+
+<p align="center">
+  <strong>Projects in Development</strong>
+</p>
+
+<p align="center">
+  Atualmente estou desenvolvendo meus conhecimentos em<br>
+  Inteligência Artificial, Machine Learning e Back-end com Python.<br>
+  Em breve, novos projetos estarão disponíveis por aqui!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-00C2FF?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
 
 <p align="center">
   <img
