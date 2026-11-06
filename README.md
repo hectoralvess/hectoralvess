@@ -38,13 +38,13 @@
 ---
 
 
-<h2 align="left"> CONTATO</h2> 
+<h2 align="left">CONTATO</h2>
 
 <p align="center">
-  <sub>
+  <font size="4">
     Estou aberto a conexões, oportunidades profissionais e projetos
     na área de tecnologia e Inteligência Artificial.
-  </sub>
+  </font>
 </p>
 
 <p align="center">
@@ -54,28 +54,26 @@
   <a href="mailto:hectoralvess21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/hetu_alves/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ---
 
-<h2 align="left"> EDUCAÇÃO </h2>
+<h2 align="left">EDUCAÇÃO</h2>
 
 <p align="center">
-  <strong>Inteligência Artificial e Machine Learning</strong><br>
-  Faculdade das Américas (FAM)<br>
-  <sub>Bacharelado · Em andamento</sub>
+  <strong><big>Inteligência Artificial e Machine Learning</big></strong><br>
+  <big>Faculdade das Américas (FAM)</big><br>
+  Bacharelado · Em andamento
 </p>
 
 <p align="center">
-  <strong>Desenvolvimento Back-end em Python</strong><br>
-  Alura<br>
-  <sub>Carreira em andamento</sub>
+  <strong><big>Desenvolvimento Back-end em Python</big></strong><br>
+  <big>Alura</big><br>
+  Carreira em andamento
 </p>
 
 <hr>
+
 
 ---
 
