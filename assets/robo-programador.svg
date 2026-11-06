@@ -1,26 +1,30 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470">
 <defs>
   <linearGradient id="bg" x2="0" y2="1">
-    <stop stop-color="#091b31"/>
-    <stop offset="1" stop-color="#020813"/>
+    <stop stop-color="#0b1c32"/>
+    <stop offset="1" stop-color="#020711"/>
   </linearGradient>
   <linearGradient id="hoodie" x1="0" y1="0" x2="1" y2="1">
-    <stop stop-color="#24577e"/>
-    <stop offset=".5" stop-color="#102d4b"/>
+    <stop stop-color="#285f89"/>
+    <stop offset=".5" stop-color="#102e4e"/>
     <stop offset="1" stop-color="#071629"/>
   </linearGradient>
   <linearGradient id="hood" x2="1" y2="1">
-    <stop stop-color="#326e98"/>
-    <stop offset="1" stop-color="#0a2038"/>
+    <stop stop-color="#397ba5"/>
+    <stop offset="1" stop-color="#0b2038"/>
+  </linearGradient>
+  <linearGradient id="cap" x2="0" y2="1">
+    <stop stop-color="#367da9"/>
+    <stop offset="1" stop-color="#102d4a"/>
   </linearGradient>
   <linearGradient id="metal" x2="0" y2="1">
-    <stop stop-color="#e1f2ff"/>
-    <stop offset=".5" stop-color="#819eb8"/>
-    <stop offset="1" stop-color="#304a65"/>
+    <stop stop-color="#e3f3ff"/>
+    <stop offset=".5" stop-color="#91a9bf"/>
+    <stop offset="1" stop-color="#344b64"/>
   </linearGradient>
   <linearGradient id="screen" x2="0" y2="1">
-    <stop stop-color="#102d49"/>
+    <stop stop-color="#123655"/>
     <stop offset="1" stop-color="#030b16"/>
   </linearGradient>
   <filter id="glow">
@@ -32,159 +36,271 @@
   </filter>
 </defs>
 
-<!-- Background -->
-<rect width="720" height="440" rx="18" fill="url(#bg)"/>
-<circle cx="360" cy="205" r="180" fill="#007bff" opacity=".07"/>
-<path d="M25 50H145M575 50H695M25 390H145M575 390H695" stroke="#087bb4" opacity=".5"/>
-<g fill="#00dfff">
-  <circle cx="65" cy="50" r="3"/>
-  <circle cx="655" cy="50" r="3"/>
-  <circle cx="65" cy="390" r="3"/>
-  <circle cx="655" cy="390" r="3"/>
+<!-- BACKGROUND -->
+<rect width="700" height="470" rx="18" fill="url(#bg)"/>
+<circle cx="350" cy="210" r="190" fill="#007bff" opacity=".08"/>
+<path d="M25 65H115V95H145M675 65H585V95H555"
+      fill="none" stroke="#087bb4" opacity=".5"/>
+<path d="M25 365H110V340H145M675 365H590V340H555"
+      fill="none" stroke="#087bb4" opacity=".5"/>
+<g fill="#00dfff" filter="url(#glow)">
+  <circle cx="145" cy="95" r="3"/>
+  <circle cx="555" cy="95" r="3"/>
+  <circle cx="145" cy="340" r="3"/>
+  <circle cx="555" cy="340" r="3"/>
 </g>
 
-<!-- Floating code -->
+<!-- FLOATING CODE -->
 <g font-family="monospace" font-size="10">
-  <text x="38" y="125" fill="#00dfff">print("Hello AI")</text>
-  <text x="38" y="143" fill="#9cbaff">model.train()</text>
-  <text x="38" y="161" fill="#6ee5b5">status: coding</text>
-  <text x="555" y="125" fill="#d3a5ff">Python</text>
-  <text x="555" y="143" fill="#00dfff">Machine Learning</text>
-  <text x="555" y="161" fill="#6ee5b5">Deep Learning</text>
+  <text x="28" y="145" fill="#00dfff">Python / AI</text>
+  <text x="28" y="163" fill="#8ebbe0">model.train()</text>
+  <text x="28" y="181" fill="#6ee5b5">status: coding</text>
+  <text x="548" y="145" fill="#d3a5ff">Machine</text>
+  <text x="548" y="163" fill="#00dfff">Learning</text>
+  <text x="548" y="181" fill="#6ee5b5">Deep Learning</text>
 </g>
 
-<!-- Hoodie hood -->
-<path d="M250 183 Q238 75 360 70 Q482 75 470 183
-L510 300 Q360 342 210 300Z"
-fill="url(#hood)" stroke="#397ba7" stroke-width="3"/>
-<path d="M274 177 Q280 100 360 91 Q440 100 446 177"
-fill="none" stroke="#669fc2" stroke-width="4"/>
-<path d="M287 168 Q360 125 433 168 L453 277
-Q360 318 267 277Z"
-fill="#071629" stroke="#32658a" stroke-width="3"/>
+<!-- ANIMATED HEAD -->
+<g>
+  <animateTransform attributeName="transform"
+    type="translate"
+    values="0 0;0 -5;0 0;0 3;0 0"
+    dur="2.8s" repeatCount="indefinite"/>
 
-<!-- Robot head -->
-<rect x="298" y="108" width="124" height="130" rx="40"
-fill="url(#metal)" stroke="#b8d8ee" stroke-width="2"/>
-<path d="M309 151 Q360 130 411 151 V201
-Q360 228 309 201Z"
-fill="#061525" stroke="#3a7da7" stroke-width="2"/>
+  <!-- HEADPHONES BEHIND CAP -->
+  <path d="M278 151 Q260 35 350 48 Q440 35 422 151"
+    fill="none" stroke="#a9c8df" stroke-width="10"
+    stroke-linecap="round"/>
+  <path d="M278 145 Q270 83 315 58"
+    fill="none" stroke="#4a7899" stroke-width="4"/>
+  <path d="M422 145 Q430 83 385 58"
+    fill="none" stroke="#4a7899" stroke-width="4"/>
 
-<!-- Face -->
-<path d="M328 169H348M372 169H392"
-stroke="#00eaff" stroke-width="7" stroke-linecap="round"
-filter="url(#glow)">
-  <animate attributeName="opacity"
-    values="1;1;.15;1"
-    keyTimes="0;.88;.92;1"
-    dur="5s" repeatCount="indefinite"/>
-</path>
-<path d="M347 191 Q360 198 373 191"
-fill="none" stroke="#52c7e9" stroke-width="2"/>
+  <!-- ROBOT HEAD -->
+  <rect x="291" y="115" width="118" height="128"
+    rx="38" fill="url(#metal)"
+    stroke="#d0e7f8" stroke-width="2"/>
 
-<!-- Headphones -->
-<path d="M290 161 Q270 75 360 80 Q450 75 430 161"
-fill="none" stroke="#91b9d4" stroke-width="9"/>
-<rect x="278" y="148" width="21" height="52" rx="8"
-fill="#1b4364" stroke="#70b5d9" stroke-width="2"/>
-<rect x="421" y="148" width="21" height="52" rx="8"
-fill="#1b4364" stroke="#70b5d9" stroke-width="2"/>
-<circle cx="288" cy="174" r="4" fill="#00dfff" filter="url(#glow)"/>
-<circle cx="432" cy="174" r="4" fill="#00dfff" filter="url(#glow)"/>
+  <!-- FACE -->
+  <path d="M302 153 Q350 134 398 153
+    V204 Q350 230 302 204Z"
+    fill="#061525" stroke="#4380a6" stroke-width="2"/>
 
-<!-- Hoodie body -->
-<path d="M285 230 Q250 237 225 270
-L190 365 Q360 410 530 365
-L495 270 Q470 237 435 230
-L400 250 H320Z"
-fill="url(#hoodie)" stroke="#397ba5" stroke-width="3"/>
+  <!-- LEFT EYE -->
+  <g filter="url(#glow)">
+    <ellipse cx="329" cy="174" rx="10" ry="13" fill="#00eaff">
+      <animate attributeName="ry"
+        values="13;13;1;13;13"
+        keyTimes="0;.86;.90;.94;1"
+        dur="3.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="329" cy="174" rx="4" ry="7" fill="#ffffff">
+      <animate attributeName="opacity"
+        values="1;1;0;1;1"
+        keyTimes="0;.86;.90;.94;1"
+        dur="3.5s" repeatCount="indefinite"/>
+    </ellipse>
 
-<!-- Hoodie shoulder details -->
-<path d="M260 260L226 350M460 260L494 350"
-stroke="#397ba5" stroke-width="3" opacity=".7"/>
-<path d="M285 244Q360 276 435 244"
-fill="none" stroke="#5b94b7" stroke-width="2"/>
+    <!-- RIGHT EYE -->
+    <ellipse cx="371" cy="174" rx="10" ry="13" fill="#00eaff">
+      <animate attributeName="ry"
+        values="13;13;1;13;13"
+        keyTimes="0;.86;.90;.94;1"
+        dur="3.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="371" cy="174" rx="4" ry="7" fill="#ffffff">
+      <animate attributeName="opacity"
+        values="1;1;0;1;1"
+        keyTimes="0;.86;.90;.94;1"
+        dur="3.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
 
-<!-- Hoodie strings -->
-<path d="M333 237L324 296M387 237L396 296"
-stroke="#a3c8e0" stroke-width="3" stroke-linecap="round"/>
-<circle cx="324" cy="297" r="4" fill="#00cfff"/>
-<circle cx="396" cy="297" r="4" fill="#00cfff"/>
+  <!-- MOUTH -->
+  <path d="M338 204 Q350 211 362 204"
+    fill="none" stroke="#55d9f2" stroke-width="2"/>
 
-<!-- Hoodie pocket -->
-<path d="M294 319Q360 345 426 319L414 367
-Q360 384 306 367Z"
-fill="#0a2038" stroke="#326b93" stroke-width="2"/>
-<path d="M306 329Q360 350 414 329"
-fill="none" stroke="#5488ad" stroke-width="2"/>
+  <!-- SMALLER CAP -->
+  <g transform="translate(42 13) scale(.88)">
 
-<!-- Hoodie logo -->
-<path d="M345 277L360 263L375 277L360 291Z"
-fill="none" stroke="#00dfff" stroke-width="2"/>
-<text x="360" y="281" text-anchor="middle"
-font-size="8" font-family="monospace" fill="#b8f8ff">AI</text>
+    <!-- CAP CROWN -->
+    <path d="M285 119
+      Q286 48 350 39
+      Q414 48 415 119
+      Q350 101 285 119Z"
+      fill="url(#cap)" stroke="#9bc9e5" stroke-width="2"/>
 
-<!-- Sleeves -->
-<path d="M238 270Q210 280 204 325L250 352L290 321"
-fill="none" stroke="#102d4d" stroke-width="32" stroke-linecap="round"/>
-<path d="M482 270Q510 280 516 325L470 352L430 321"
-fill="none" stroke="#102d4d" stroke-width="32" stroke-linecap="round"/>
-<path d="M238 270Q210 280 204 325M482 270Q510 280 516 325"
-fill="none" stroke="#397ba5" stroke-width="2"/>
+    <!-- CAP PANELS -->
+    <path d="M350 42V105M309 56L329 108M391 56L371 108"
+      stroke="#76a8c9" stroke-width="1.5" opacity=".7"/>
 
-<!-- Robotic hands -->
-<path d="M250 345L273 354L288 372L272 382L246 365Z"
-fill="url(#metal)" stroke="#a6c9e1" stroke-width="2"/>
-<path d="M470 345L447 354L432 372L448 382L474 365Z"
-fill="url(#metal)" stroke="#a6c9e1" stroke-width="2"/>
+    <!-- CAP LOGO -->
+    <path d="M338 77L350 64L362 77L350 90Z"
+      fill="none" stroke="#00eaff" stroke-width="2"/>
+    <text x="350" y="81" text-anchor="middle"
+      font-family="monospace" font-size="8"
+      fill="#e1ffff">AI</text>
 
-<!-- Laptop -->
-<rect x="247" y="286" width="226" height="125" rx="9"
-fill="#172f49" stroke="#7da9c9" stroke-width="3"/>
-<rect x="258" y="297" width="204" height="99" rx="4"
-fill="url(#screen)" stroke="#176c9d"/>
-<rect x="258" y="297" width="204" height="15" rx="4" fill="#163b5b"/>
-<circle cx="269" cy="304" r="2.5" fill="#ff6677"/>
-<circle cx="278" cy="304" r="2.5" fill="#ffd16c"/>
-<circle cx="287" cy="304" r="2.5" fill="#50e5ad"/>
+    <!-- CAP BRIM -->
+    <path d="M285 113
+      Q350 96 415 113
+      Q435 124 409 132
+      Q350 118 291 132
+      Q265 126 285 113Z"
+      fill="#153b5c" stroke="#8db9d5" stroke-width="2"/>
+  </g>
 
-<!-- Code on screen -->
+  <!-- HEADPHONE EAR CUPS -->
+  <rect x="267" y="124" width="24" height="54"
+    rx="10" fill="#173d5c" stroke="#a8cce3" stroke-width="2"/>
+  <rect x="409" y="124" width="24" height="54"
+    rx="10" fill="#173d5c" stroke="#a8cce3" stroke-width="2"/>
+
+  <circle cx="279" cy="151" r="6" fill="#00dfff" filter="url(#glow)">
+    <animate attributeName="opacity" values=".3;1;.3"
+      dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="421" cy="151" r="6" fill="#00dfff" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.3;1"
+      dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- HOODIE BODY -->
+<path d="M287 235 Q246 243 220 280
+  L180 386 Q350 431 520 386
+  L480 280 Q454 243 413 235
+  L390 255 H310Z"
+  fill="url(#hoodie)" stroke="#397ba5" stroke-width="3"/>
+
+<!-- HOODIE DETAILS -->
+<path d="M286 251 Q350 282 414 251"
+  fill="none" stroke="#679fbe" stroke-width="2"/>
+<path d="M330 240L322 300M370 240L378 300"
+  stroke="#c2d9e9" stroke-width="3"
+  stroke-linecap="round"/>
+<circle cx="322" cy="301" r="4" fill="#00dfff"/>
+<circle cx="378" cy="301" r="4" fill="#00dfff"/>
+
+<!-- CHEST LOGO -->
+<path d="M338 276L350 264L362 276L350 288Z"
+  fill="none" stroke="#00dfff" stroke-width="2"/>
+<text x="350" y="280" text-anchor="middle"
+  fill="#d5ffff" font-family="monospace"
+  font-size="8">AI</text>
+
+<!-- HOODIE POCKET -->
+<path d="M284 327 Q350 354 416 327
+  L405 377 Q350 395 295 377Z"
+  fill="#0a2038" stroke="#326b93" stroke-width="2"/>
+<path d="M296 337 Q350 357 404 337"
+  fill="none" stroke="#5488ad" stroke-width="2"/>
+
+<!-- LEFT ARM ANIMATION -->
+<g>
+  <animateTransform attributeName="transform"
+    type="rotate"
+    values="0 235 300;-9 235 300;3 235 300;-7 235 300;0 235 300"
+    dur=".65s" repeatCount="indefinite"/>
+  <path d="M235 271 Q205 289 210 341"
+    fill="none" stroke="#102d4d"
+    stroke-width="31" stroke-linecap="round"/>
+  <path d="M235 271 Q205 289 210 341"
+    fill="none" stroke="#397ba5" stroke-width="2"/>
+  <path d="M210 341L247 367"
+    stroke="url(#metal)" stroke-width="17"
+    stroke-linecap="round"/>
+  <path d="M247 367L263 381"
+    stroke="#d7eafa" stroke-width="6"
+    stroke-linecap="round"/>
+</g>
+
+<!-- RIGHT ARM ANIMATION -->
+<g>
+  <animateTransform attributeName="transform"
+    type="rotate"
+    values="0 465 300;9 465 300;-3 465 300;7 465 300;0 465 300"
+    dur=".55s" repeatCount="indefinite"/>
+  <path d="M465 271 Q495 289 490 341"
+    fill="none" stroke="#102d4d"
+    stroke-width="31" stroke-linecap="round"/>
+  <path d="M465 271 Q495 289 490 341"
+    fill="none" stroke="#397ba5" stroke-width="2"/>
+  <path d="M490 341L453 367"
+    stroke="url(#metal)" stroke-width="17"
+    stroke-linecap="round"/>
+  <path d="M453 367L437 381"
+    stroke="#d7eafa" stroke-width="6"
+    stroke-linecap="round"/>
+</g>
+
+<!-- LAPTOP -->
+<rect x="237" y="300" width="226" height="117"
+  rx="9" fill="#172f49"
+  stroke="#83b5d8" stroke-width="3"/>
+<rect x="248" y="311" width="204" height="88"
+  rx="4" fill="url(#screen)" stroke="#176c9d"/>
+<rect x="248" y="311" width="204" height="15"
+  rx="4" fill="#163b5b"/>
+
+<circle cx="260" cy="318" r="2.5" fill="#ff6677"/>
+<circle cx="270" cy="318" r="2.5" fill="#ffd16c"/>
+<circle cx="280" cy="318" r="2.5" fill="#50e5ad"/>
+
+<!-- PYTHON CODE -->
 <g font-family="monospace" font-size="9">
-  <text x="271" y="329" fill="#d3a5ff">def</text>
-  <text x="291" y="329" fill="#75dfff"> build_ai():</text>
-  <text x="280" y="344" fill="#8eb4d3">model = NeuralNet()</text>
-  <text x="280" y="359" fill="#6ee5b5">model.train(data)</text>
-  <text x="280" y="374" fill="#8eb4d3">return accuracy</text>
-  <rect x="280" y="381" width="5" height="9" fill="#00eaff">
-    <animate attributeName="opacity" values="1;0;1"
-      dur=".8s" repeatCount="indefinite"/>
+  <text x="261" y="342" fill="#d3a5ff">def</text>
+  <text x="282" y="342" fill="#75dfff"> build_ai():</text>
+  <text x="270" y="357" fill="#8eb4d3">model = NeuralNet()</text>
+  <text x="270" y="372" fill="#6ee5b5">model.train(data)</text>
+  <text x="270" y="387" fill="#8eb4d3">return accuracy</text>
+  <rect x="270" y="390" width="5" height="7" fill="#00eaff">
+    <animate attributeName="opacity"
+      values="1;0;1" dur=".6s"
+      repeatCount="indefinite"/>
   </rect>
 </g>
 
-<!-- Typing hands animation -->
-<g>
-  <animateTransform attributeName="transform" type="translate"
-    values="0 0;0 3;0 0" dur=".35s" repeatCount="indefinite"/>
-  <path d="M274 379L280 387M526 379L520 387"
-    stroke="#e0f5ff" stroke-width="3" stroke-linecap="round"/>
+<!-- LAPTOP BASE -->
+<path d="M237 417H463L480 425H220Z"
+  fill="#789bb8" stroke="#b5d2e7" stroke-width="1.5"/>
+<path d="M315 420H385"
+  stroke="#1b3550" stroke-width="3"
+  stroke-linecap="round"/>
+
+<!-- KEYBOARD LIGHTS -->
+<g fill="#00dfff" filter="url(#glow)">
+  <rect x="262" y="406" width="14" height="3" rx="1"/>
+  <rect x="281" y="406" width="14" height="3" rx="1"/>
+  <rect x="300" y="406" width="14" height="3" rx="1"/>
+  <rect x="386" y="406" width="14" height="3" rx="1"/>
+  <rect x="405" y="406" width="14" height="3" rx="1"/>
+  <rect x="424" y="406" width="14" height="3" rx="1"/>
 </g>
 
-<!-- Desk -->
-<path d="M110 397H610" stroke="#527493" stroke-width="5" stroke-linecap="round"/>
-<path d="M150 402V420M570 402V420" stroke="#294661" stroke-width="7"/>
+<!-- DESK -->
+<path d="M105 430H595"
+  stroke="#527493" stroke-width="5"
+  stroke-linecap="round"/>
 
-<!-- Status lights -->
-<circle cx="180" cy="290" r="4" fill="#00dfff" filter="url(#glow)">
-  <animate attributeName="opacity" values=".2;1;.2"
-    dur="1.5s" repeatCount="indefinite"/>
-</circle>
-<circle cx="540" cy="290" r="4" fill="#00dfff" filter="url(#glow)">
-  <animate attributeName="opacity" values="1;.2;1"
-    dur="1.8s" repeatCount="indefinite"/>
-</circle>
+<!-- PULSING LIGHTS -->
+<g fill="#00dfff" filter="url(#glow)">
+  <circle cx="166" cy="278" r="4">
+    <animate attributeName="opacity"
+      values=".2;1;.2" dur="1s"
+      repeatCount="indefinite"/>
+  </circle>
+  <circle cx="534" cy="278" r="4">
+    <animate attributeName="opacity"
+      values="1;.2;1" dur="1.2s"
+      repeatCount="indefinite"/>
+  </circle>
+</g>
 
-<!-- Footer -->
-<text x="360" y="430" text-anchor="middle"
-fill="#7edfff" font-size="10" font-family="monospace"
-letter-spacing="3">HOODIE DEVELOPER // ONLINE</text>
+<!-- FOOTER -->
+<text x="350" y="454" text-anchor="middle"
+  fill="#7edfff" font-size="10"
+  font-family="monospace" letter-spacing="3">
+  HOODIE DEVELOPER // ONLINE
+</text>
 </svg>
