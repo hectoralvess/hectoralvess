@@ -99,6 +99,7 @@
   <img src="https://img.shields.io/badge/LLMs-00A6D6?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-0077B6?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
 </p>
+
 ---
 
 <p align="center">
