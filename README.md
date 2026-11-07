@@ -67,8 +67,7 @@
 
 <p align="center">
   <font size="4">
-    Estou aberto a conexões, oportunidades profissionais e projetos
-    na área de tecnologia e Inteligência Artificial.
+    Estou aberto a conexões, oportunidades de estágio, experiências profissionais e projetos na área de tecnologia. 
   </font>
 </p>
 
