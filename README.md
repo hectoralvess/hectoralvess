@@ -3,16 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=270&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=58&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=15&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=35C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Python+%7C+Machine+Learning+%7C+RAG+%7C+LLMs;Transformando+curiosidade+em+projetos;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-0B84F3?style=for-the-badge&amp;labelColor=080D1A" />
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&amp;labelColor=080D1A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=330&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=68&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=17&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
 </p>
 
 ---
