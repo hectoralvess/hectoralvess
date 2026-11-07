@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-168BFF?style=for-the-badge&labelColor=080D1A" />
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&labelColor=080D1A" />
+  <img src="https://img.shields.io/badge/SEEKING-FIRST_OPPORTUNITY-00C2FF?style=for-the-badge&labelColor=080D1A" />
 </p>
 
 ---
