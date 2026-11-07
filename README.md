@@ -2,8 +2,10 @@
 <!-- HECTOR ALVES | AI & MACHINE LEARNING PROFILE      -->
 <!-- ================================================= -->
 
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=330&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=68&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=17&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=330&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=68&amp;fontColor=EAF6FF&amp;fontAlignY=50&amp;animation=twinkling" width="100%" />
+
 </p>
 
 <p align="center">
