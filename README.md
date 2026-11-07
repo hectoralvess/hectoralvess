@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=35C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Explorando+o+universo+da+Intelig%C3%AAncia+Artificial;Python+%7C+Machine+Learning+%7C+RAG+%7C+LLMs;Transformando+curiosidade+em+projetos;Sempre+aprendendo%2C+sempre+evoluindo." alt="Frases animadas" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-168BFF?style=for-the-badge&labelColor=080D1A" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&labelColor=080D1A" />
+</p>
+
 ---
 
 <h2 align="left"> TECH STACK</h2>
