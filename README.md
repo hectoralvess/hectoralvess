@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIP-0B84F3?style=for-the-badge&amp;labelColor=080D1A" />
   <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00C2FF?style=for-the-badge&amp;labelColor=080D1A" />
 </p>
-
+</p>
 
 <h2 align="left"> TECH STACK</h2>
 
