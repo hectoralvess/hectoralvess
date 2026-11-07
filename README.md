@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=230&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=52&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=14&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:123C69,100:00C2FF&amp;height=270&amp;section=header&amp;text=HECTOR%20ALVES&amp;fontSize=58&amp;fontColor=EAF6FF&amp;fontAlignY=38&amp;animation=twinkling&amp;desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&amp;descSize=15&amp;descAlignY=58&amp;descColor=9EDFFF" width="100%" />
 </p>
 
 <p align="center">
